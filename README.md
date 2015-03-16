@@ -1,2 +1,2 @@
-# Basic-Grunt-Project-start
+# Basic-Grunt-Project-Start
 Build you any grunt project form scratch. Deful use HTML5 Boilerplate, Bootstrap and also use Jquery for your any website project or start an webapp form scratch.
