@@ -33,10 +33,10 @@ As you might imagine, there is a lot of leveling up you can do with your build p
 visit http://gruntjs.com/
 
 I have use the following for my project
-https://html5boilerplate.com
-https://bootswatch.com/flatly
-http://jquery.com
-http://modernizr.com
+- https://html5boilerplate.com
+- https://bootswatch.com/flatly
+- http://jquery.com
+- http://modernizr.com
 
 Enjoy your development workflow with Grunt
 
