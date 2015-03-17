@@ -15,6 +15,32 @@ Now open up your command your command line tool and navigate you directory.
 ```JavaScript
 npm install
 ```
+You can see this will donload the all dependencies. After finish this you can see a folder called node modules has been creaated on yor project directory. now run the task form Gruntfile.js
+
+Now in your command line tool write
+```JavaScript
+grunt
+```
+you can now see every task will running accordingly and a build folder will be created in css, js and img.
+
+You can customize any task to edit the Gruntfile.js ( for more information visit http://gruntjs.com/getting-started )
+
+## Conclusion
+This is very basic grunt boilerplate you can use for your any grunt project to start. 
+
+As you might imagine, there is a lot of leveling up you can do with your build process.
+
+visit http://gruntjs.com/
+
+I have use the following for my project
+https://html5boilerplate.com
+https://bootswatch.com/flatly
+http://jquery.com
+http://modernizr.com
+
+Enjoy your development workflow with Grunt
+
+
 
 
 
