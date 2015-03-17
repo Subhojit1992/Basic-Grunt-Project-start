@@ -5,10 +5,10 @@ Build you any grunt project form scratch. Deful use HTML5 Boilerplate, Bootstrap
 First thing first. Download the file as a zip or clone it on your pc and oprn the command tool. I will suggest to use Git-Bash, Power-Shell or Cmder for your command line tool.
 
 next make your you systems has installed followings:
-1. Node with NPM
-2. Git
-3. Grunt
-4. Sass
+- 1. Node with NPM
+- 2. Git
+- 3. Grunt
+- 4. Sass
 5. Compass (Optional)
 
 Now open up your command your command line tool and navigate you directory.
